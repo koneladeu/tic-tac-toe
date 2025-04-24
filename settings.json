@@ -1,0 +1,12 @@
+{
+    "theme": "pixel_night",
+    "skip_turn_on_timeout": true,
+    "sound_effects": true,
+    "background_music": true,
+    "volume": 50,
+    "dark_mode": false,
+    "board_animation": false,
+    "language": "English",
+    "leaderboard_enabled": true
+  }
+  
